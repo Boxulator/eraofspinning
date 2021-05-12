@@ -9,11 +9,14 @@ INFO:
 
 NOTES: 
 
-You can still attack with godmode on.
+stuff here
+stuff here
+stuff here
+stuff here
 
 Other keys include: 
 
-O to RedeemCodes
+K to RedeemCodes
 L to Toggle ESP
 N to FPS Boost
 p to Reset
